@@ -3,8 +3,7 @@
 <h3 align="center">Spanish Web and Discord Bot Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXQ0-w4qevBrV_ILvR8OictI3L62YxYXbQKA&usqp=CAU")
 
-![](https://discord.c99.nl/widget/theme-1/817515739711406140.png)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zer0dev-exe&label=Profile%20views&color=0e75b6&style=flat" alt="zer0dev-exe" /> </p>
+![](https://lanyard.cnrad.dev/api/817515739711406140)
 
 <p align="left"> <a href="https://twitter.com/zer0_9999" target="blank"><img src="https://img.shields.io/twitter/follow/zer0_9999?logo=twitter&style=for-the-badge" alt="zer0_9999" /></a> </p>
 
