@@ -1,7 +1,7 @@
 [![MasterHead](https://media.discordapp.net/attachments/1066327157187555368/1087076350394896405/New_Project_19.png?width=768&height=311)](https://skyzer0dev.com)
 <h1 align="center">Hi 👋, I'm Zer0Dev</h1>
 <h3 align="center">Spanish Web and Discord Bot Developer</h3>
-<img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXQ0-w4qevBrV_ILvR8OictI3L62YxYXbQKA&usqp=CAU")
+<img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQI8Q-DY8dozbc45VHrGpSuPDyBysn8b2cyUtFIDHMM8AtgsAoqig4IuuI8O1qMkvnlt0&usqp=CAU")
 
 ![](https://lanyard.cnrad.dev/api/817515739711406140)
 
