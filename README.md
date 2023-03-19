@@ -1,7 +1,7 @@
 [![MasterHead](https://media.discordapp.net/attachments/1066327157187555368/1087076350394896405/New_Project_19.png?width=768&height=311)](https://skyzer0dev.com)
 <h1 align="center">Hi 👋, I'm Zer0Dev</h1>
 <h3 align="center">A passionate junior Developer</h3>
-<img align="right" alt="Coding" width="400" src="https://media.discordapp.net/attachments/1066327157187555368/1087078337417072700/e5feb91a036e97f2120adaa098b3acfd.png?width=199&height=199")
+<img align="right" alt="Coding" width="400" src="https://media.discordapp.net/attachments/1066327157187555368/1087079893042483381/1610019708.png?width=187&height=187")
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zer0dev-exe&label=Profile%20views&color=0e75b6&style=flat" alt="zer0dev-exe" /> </p>
 
