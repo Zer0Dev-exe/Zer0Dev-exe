@@ -1,6 +1,8 @@
 [![MasterHead](https://media.discordapp.net/attachments/1066327157187555368/1087076350394896405/New_Project_19.png?width=768&height=311)](https://skyzer0dev.com)
 <h1 align="center">Hi 👋, I'm Zer0Dev</h1>
-<h3 align="center">Spanish Web and Discord Bot Developer</h3>
+<div align="center">
+<img src="https://readme-typing-svg.herokuapp.com?size=25&color=9146ff&lines=Spanish+Web+/+Discord+BotDev%7C">
+</div
 <img align="right" alt="Coding" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQI8Q-DY8dozbc45VHrGpSuPDyBysn8b2cyUtFIDHMM8AtgsAoqig4IuuI8O1qMkvnlt0&usqp=CAU" width="150" height="150")
 
 ![](https://lanyard.cnrad.dev/api/817515739711406140)
