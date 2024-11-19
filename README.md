@@ -5,7 +5,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=25&color=9146ff&lines=Web+Dev/Discord+Bot+Dev|">
 </div>
 
-<img align="right" alt="Coding" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQI8Q-DY8dozbc45VHrGpSuPDyBysn8b2cyUtFIDHMM8AtgsAoqig4IuuI8O1qMkvnlt0&usqp=CAU" width="150" height="150" />
+<img align="right" alt="TryHackMe Badge" src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3820009" width="150" height="150" />
 
 ![](https://lanyard.cnrad.dev/api/817515739711406140)
 
