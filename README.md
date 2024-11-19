@@ -5,8 +5,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=25&color=9146ff&lines=Web+Dev/Discord+Bot+Dev|">
 </div>
 
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3820009" style='border:none;'></iframe>
-
 ![](https://lanyard.cnrad.dev/api/817515739711406140)
 
 <p align="left"> 
