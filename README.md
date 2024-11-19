@@ -13,10 +13,10 @@
   </a> 
 </p>
 
-- 🔭 I’m currently working on **Pokémon Kingdom**
-- 🌱 I’m currently learning **JavaScript & Python**
-- 👨‍💻 Projects: [Pokémon Utilidades](https://github.com/Zer0Dev-exe/PokemonUtilidades)
-- 📫 How to reach me: **zer0personalmail@gmail.com**
+- 👨‍💻 Soy un desarrollador full stack con experiencia en <strong>Java, JavaScript, PHP, HTML, CSS</strong> y conocimientos básicos en <strong>Python</strong>.
+- 🗂️ Especializado en <strong>bases de datos</strong>, especialmente en <strong>MongoDB</strong>.
+- ⚙️ Mi enfoque está en crear soluciones eficientes, escalables y optimizadas.
+- 📬 Puedes contactarme en: <strong>zer0personalmail@gmail.com</strong>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
