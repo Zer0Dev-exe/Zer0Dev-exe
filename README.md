@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Zer0Dev</h1>
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&color=9146ff&lines=Web+Dev/Discord+Bot+Dev|">
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&color=9146ff&lines=Full+-Stack+Dev/Discord+Bot+Dev|">
 </div>
 
 ![](https://lanyard.cnrad.dev/api/817515739711406140)
