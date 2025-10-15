@@ -85,5 +85,3 @@
 
 
 ![](https://lanyard.cnrad.dev/api/817515739711406140)
-  </a> 
-  <a href="https://www.w3.org/html/" target="_blank
