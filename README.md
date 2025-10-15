@@ -7,18 +7,15 @@
 
 ![](https://lanyard.cnrad.dev/api/817515739711406140)
 
-<p align="left"> 
-  <a href="https://twitter.com/zer0_9999" target="blank">
-    <img src="https://img.shields.io/twitter/follow/zer0_9999?logo=twitter&style=for-the-badge" alt="zer0_9999" />
-  </a> 
-</p>
+- 👨‍💻 Desarrollador **Full Stack** con experiencia en **Java, JavaScript, PHP, HTML, CSS** y conocimientos sólidos en **Python**.  
+- ⚙️ Manejo frameworks modernos como **Next.js**, **React**, **Django** y **FastAPI**, creando aplicaciones web **eficientes, escalables y optimizadas**.  
+- 🗂️ Especialista en **bases de datos**, con amplia experiencia en **MongoDB** y **MySQL**, desde el diseño hasta la optimización del rendimiento.  
+- 💻 Capaz de **gestionar sistemas operativos** y entornos de desarrollo para garantizar **despliegues estables y seguros**.  
+- 🚀 Apasionado por **aprender nuevas tecnologías**, mejorar procesos y crear soluciones que aporten **valor real**.  
+- 📬 Puedes contactarme en: **zer0personalmail@gmail.com**
 
-- 👨‍💻 Soy un desarrollador full stack con experiencia en <strong>Java, JavaScript, PHP, HTML, CSS</strong> y conocimientos básicos en <strong>Python</strong>.
-- 🗂️ Especializado en <strong>bases de datos</strong>, especialmente en <strong>MongoDB</strong>.
-- ⚙️ Mi enfoque está en crear soluciones eficientes, escalables y optimizadas.
-- 📬 Puedes contactarme en: <strong>zer0personalmail@gmail.com</strong>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Conecta Conmigo:</h3>
 <p align="left">
   <a href="https://twitter.com/zer0_9999" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="zer0_9999" height="30" width="40" />
