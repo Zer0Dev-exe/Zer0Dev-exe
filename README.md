@@ -1,4 +1,4 @@
-[![MasterHead](https://i.pinimg.com/originals/fc/21/16/fc2116fb21de12a62d4b36c31bbb1e6f.gif?width=768&height=255)](https://skyzer0dev.com)
+[![MasterHead](https://i.pinimg.com/originals/9d/1f/82/9d1f82cc324e498dd5127a6ed0296dac.gif)](https://skyzer0dev.com)
 
 <h1 align="center">Hi 👋, I'm Zer0Dev</h1>
 <div align="center">
