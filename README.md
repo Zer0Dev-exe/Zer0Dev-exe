@@ -30,9 +30,12 @@
     </td>
     <td width="45%" valign="top">
       <div align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=Zer0Dev-exe&show_icons=true&theme=dracula&hide_border=true" width="100%" alt="GitHub Stats" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zer0Dev-exe&theme=dracula&hide_border=true" width="100%" alt="GitHub Streak" />
+        
         <br><br>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zer0Dev-exe&layout=compact&theme=dracula&hide_border=true" width="100%" alt="Top Langs" />
+        
+        <img src="https://github-profile-trophy.vercel.app/?username=Zer0Dev-exe&theme=dracula&no-frame=true&column=4&margin-w=15&margin-h=15" width="100%" alt="Trophies" />
+        
       </div>
     </td>
   </tr>
@@ -62,4 +65,7 @@
 <br>
 
 <div align="center">
-  <a href="
+  <a href="https://discord.com/users/817515739711406140">
+    <img src="https://lanyard.cnrad.dev/api/817515739711406140?theme=dark&bg=00000000&hide_discrim=true" />
+  </a>
+</div>
