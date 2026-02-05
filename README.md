@@ -2,86 +2,65 @@
 
 <h1 align="center">Hi 👋, I'm Zer0Dev</h1>
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&color=9146ff&lines=Full-Stack+Dev/Bot+Dev|">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=BD93F9&background=00000000&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;AI+%26+Cybersecurity+Enthusiast;Python+Wizard;Bot+Developer" alt="Typing SVG" />
 </div>
 
-- 👨‍💻 Desarrollador **Full Stack** con experiencia en **Java, JavaScript, PHP, HTML, CSS** y conocimientos sólidos en **Python**.  
-- ⚙️ Manejo frameworks modernos como **Next.js**, **React**, **Django** y **FastAPI**, creando aplicaciones web **eficientes, escalables y optimizadas**.  
-- 🗂️ Especialista en **bases de datos**, con amplia experiencia en **MongoDB** y **MySQL**, desde el diseño hasta la optimización del rendimiento.  
-- 💻 Capaz de **gestionar sistemas operativos** y entornos de desarrollo para garantizar **despliegues estables y seguros**.  
-- 🚀 Apasionado por **aprender nuevas tecnologías**, mejorar procesos y crear soluciones que aporten **valor real**.  
-- 📬 Puedes contactarme en: **zer0personalmail@gmail.com**
+<table align="center" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td width="55%" valign="top">
+      <h3>👨‍💻 About Me</h3>
+      <br>
+      <ul>
+        <li>🔭 Desarrollador <b>Full Stack</b> (Java, JS, PHP, Python).</li>
+        <li>⚙️ Experto en <b>Next.js, React, Django y FastAPI</b>.</li>
+        <li>🗂️ Diseño y optimización de <b>MongoDB y MySQL</b>.</li>
+        <li>🔐 Interesado en <b>Ciberseguridad & IA</b>.</li>
+        <li>🚀 Siempre aprendiendo y aportando <b>valor real</b>.</li>
+        <li>📬 Contacto: <b>zer0personalmail@gmail.com</b></li>
+      </ul>
+      <br>
+      <div align="center">
+        <a href="https://twitter.com/zer0_9999" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
+        <a href="https://discord.gg/pokemon-kingdom" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
+        <a href="https://www.youtube.com/c/zer0" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+      </div>
+    </td>
+    <td width="45%" valign="center">
+      <div align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=Zer0Dev-exe&show_icons=true&theme=dracula&hide_border=true&bg_color=00000000" />
+        <br>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zer0Dev-exe&layout=compact&theme=dracula&hide_border=true&bg_color=00000000" />
+      </div>
+    </td>
+  </tr>
+</table>
 
+<h3 align="center">🛠️ Tech Stack</h3>
+<div align="center">
 
-<h3 align="left">🌐 Conecta Conmigo:</h3>
-<p align="left">
-  <a href="https://twitter.com/zer0_9999" target="_blank" rel="noopener noreferrer">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
-  </a>
-  <a href="https://www.behance.net/zer0visuals" target="_blank" rel="noopener noreferrer">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="Behance" height="30" width="40" />
-  </a>
-  <a href="https://www.youtube.com/c/zer0" target="_blank" rel="noopener noreferrer">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" />
-  </a>
-  <a href="https://discord.gg/pokemon-kingdom" target="_blank" rel="noopener noreferrer">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" />
-  </a>
-</p>
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />
+  <br>
 
-<h3 align="left">🛠️ Languages and Tools:</h3>
-<p align="left"> 
-  <!-- Frontend -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noopener noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/> 
-  </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noopener noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40"/> 
-  </a>
-  <a href="https://react.dev/" target="_blank" rel="noopener noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/> 
-  </a>
-  <a href="https://nextjs.org/" target="_blank" rel="noopener noreferrer"> 
-    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" height="40"/> 
-  </a>
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" />
+  <br>
 
-  <!-- Backend -->
-  <a href="https://www.java.com/" target="_blank" rel="noopener noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/> 
-  </a>
-  <a href="https://www.php.net/" target="_blank" rel="noopener noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/> 
-  </a>
-  <a href="https://www.python.org/" target="_blank" rel="noopener noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> 
-  </a>
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noopener noreferrer"> 
-    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40" height="40"/> 
-  </a>
-  <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noopener noreferrer"> 
-    <img src="https://cdn.worldvectorlogo.com/logos/fastapi-1.svg" alt="FastAPI" width="40" height="40"/> 
-  </a>
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+</div>
 
-  <!-- Databases -->
-  <a href="https://www.mongodb.com/" target="_blank" rel="noopener noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/> 
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noopener noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/> 
-  </a>
+<br>
 
-  <!-- Tools -->
-  <a href="https://git-scm.com/" target="_blank" rel="noopener noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/> 
+<div align="center">
+  <a href="https://discord.com/users/817515739711406140">
+    <img src="https://lanyard.cnrad.dev/api/817515739711406140?theme=dark&bg=00000000&hide_discrim=true" />
   </a>
-  <a href="https://www.arduino.cc/" target="_blank" rel="noopener noreferrer"> 
-    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40"/> 
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noopener noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/> 
-  </a>
-</p>
-
-
-
-![](https://lanyard.cnrad.dev/api/817515739711406140)
+</div>
