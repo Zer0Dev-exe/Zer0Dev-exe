@@ -11,7 +11,7 @@
 
 <table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
 <tr>
-<td width="55%" valign="center">
+<td width="55%" valign="top">
 <h3>👨‍💻 About Me</h3>
 <ul>
 <li>🔭 Desarrollador <b>Full Stack</b> (Java, JS, PHP, Python).</li>
@@ -27,8 +27,9 @@
 <a href="https://www.youtube.com/c/zer0" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="25"></a>
 </div>
 </td>
-<td width="45%" valign="center" align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" style="border-radius: 10px;" alt="Coding Gif" />
+<td width="45%" valign="top" align="center">
+<h3>📊 Most Used Languages</h3>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zer0Dev-exe&layout=compact&theme=dracula&hide_border=true&langs_count=6" width="100%" alt="Top Langs" />
 </td>
 </tr>
 </table>
@@ -52,7 +53,6 @@
 <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </div>
-
 <br>
 <div align="center">
 <a href="https://discord.com/users/817515739711406140">
