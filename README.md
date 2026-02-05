@@ -14,13 +14,13 @@
 <td width="55%" valign="top">
 <h3>👨‍💻 About Me</h3>
 <ul>
-<li>🔭 Desarrollador <b>Full Stack</b> (Java, JS, PHP, Python).</li>
-<li>⚙️ Experto en <b>Next.js, React, Laravel, Django y FastAPI</b>.</li>
-<li>🗂️ Diseño y optimización de <b>Oracle, MongoDB y MariaDB</b>.</li>
-<li>🔐 Interesado en <b>Ciberseguridad & IA</b>.</li>
-<li>🚀 Siempre aprendiendo y aportando <b>valor real</b>.</li>
-<li>💬 Discord: <b>zer0dev</b> (¡agrégame!)</li>
-<li>📬 Contacto: <b>zeropersonalmail@gmail.com</b></li>
+<li>💻 Desarrollador <b>Full Stack</b> (Java, JS, PHP, Python).</li>
+<li>🏗️ Experto en <b>Next.js, React, Laravel, Django y FastAPI</b>.</li>
+<li>🛢️ Diseño y optimización de <b>Oracle, MongoDB y MariaDB</b>.</li>
+<li>🛡️ Interesado en <b>Ciberseguridad & IA</b>.</li>
+<li>🧠 Siempre aprendiendo y aportando <b>valor real</b>.</li>
+<li>👾 Discord: <b>zer0dev</b> (¡agrégame!)</li>
+<li>📧 Contacto: <b>zeropersonalmail@gmail.com</b></li>
 </ul>
 <div align="left">
 <a href="https://twitter.com/zer0_9999" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" height="25"></a>
@@ -50,29 +50,4 @@
   </tr>
   <tr>
     <td><b>PHP</b></td>
-    <td><img src="https://img.shields.io/badge/-80%25-777BB4?style=flat-square&logo=php&logoColor=white" height="20"></td>
-  </tr>
-   <tr>
-    <td><b>Oracle/SQL</b></td>
-    <td><img src="https://img.shields.io/badge/-75%25-F80000?style=flat-square&logo=oracle&logoColor=white" height="20"></td>
-  </tr>
-</table>
-</td>
-</tr>
-</table>
-
-<br>
-<h3 align="center">🛠️ Tech Stack</h3>
-<div align="center">
-
-<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
-<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-<img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />
-<br>
-
-<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" />
-<img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" />
-<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-<img src
+    <td><img src="
