@@ -27,9 +27,35 @@
 <a href="https://www.youtube.com/c/zer0" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="25"></a>
 </div>
 </td>
-<td width="45%" valign="top" align="center">
-<h3>📊 Most Used Languages</h3>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zer0Dev-exe&layout=compact&theme=dracula&hide_border=true&langs_count=6" width="100%" alt="Top Langs" />
+
+<td width="45%" valign="top">
+<h3>📊 Top Skills</h3>
+<table border="0" cellspacing="0" cellpadding="0" width="100%">
+  <tr>
+    <td width="30%"><b>Python</b></td>
+    <td><img src="https://img.shields.io/badge/-95%25-3776AB?style=flat-square&logo=python&logoColor=white" height="20"></td>
+  </tr>
+  <tr>
+    <td><b>JavaScript</b></td>
+    <td><img src="https://img.shields.io/badge/-90%25-F7DF1E?style=flat-square&logo=javascript&logoColor=black" height="20"></td>
+  </tr>
+  <tr>
+    <td><b>Java</b></td>
+    <td><img src="https://img.shields.io/badge/-85%25-ED8B00?style=flat-square&logo=openjdk&logoColor=white" height="20"></td>
+  </tr>
+  <tr>
+    <td><b>PHP</b></td>
+    <td><img src="https://img.shields.io/badge/-80%25-777BB4?style=flat-square&logo=php&logoColor=white" height="20"></td>
+  </tr>
+  <tr>
+    <td><b>React</b></td>
+    <td><img src="https://img.shields.io/badge/-85%25-61DAFB?style=flat-square&logo=react&logoColor=black" height="20"></td>
+  </tr>
+   <tr>
+    <td><b>SQL</b></td>
+    <td><img src="https://img.shields.io/badge/-75%25-4479A1?style=flat-square&logo=mysql&logoColor=white" height="20"></td>
+  </tr>
+</table>
 </td>
 </tr>
 </table>
@@ -44,18 +70,4 @@
 <br>
 <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
 <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" />
-<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-<img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" />
-<img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" />
-<br>
-<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-</div>
-<br>
-<div align="center">
-<a href="https://discord.com/users/817515739711406140">
-<img src="https://lanyard.cnrad.dev/api/817515739711406140?theme=dark&bg=00000000&hide_discrim=true" />
-</a>
-</div>
+<img src="
