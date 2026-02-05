@@ -11,7 +11,7 @@
 
 <table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
 <tr>
-<td width="50%" valign="top">
+<td width="55%" valign="center">
 <h3>👨‍💻 About Me</h3>
 <ul>
 <li>🔭 Desarrollador <b>Full Stack</b> (Java, JS, PHP, Python).</li>
@@ -27,10 +27,8 @@
 <a href="https://www.youtube.com/c/zer0" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="25"></a>
 </div>
 </td>
-<td width="50%" valign="center" align="center">
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Zer0Dev-exe&bg_color=0d1117&color=bd93f9&line=bd93f9&point=ffffff&area=true&hide_border=true" width="100%" alt="Activity Graph" />
-</a>
+<td width="45%" valign="center" align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" style="border-radius: 10px;" alt="Coding Gif" />
 </td>
 </tr>
 </table>
