@@ -1,4 +1,8 @@
-[![MasterHead](https://images.unsplash.com/photo-1555066931-4365d14bab8c?q=80&w=1000&auto=format&fit=crop)](https://zer0dev.es)
+<div align="center">
+  <a href="https://zer0dev.es">
+    <img src="https://images.unsplash.com/photo-1555066931-4365d14bab8c?q=80&w=1200&h=300&fit=crop" alt="MasterHead" width="100%" height="250" style="object-fit: cover;">
+  </a>
+</div>
 
 <h1 align="center">Hi 👋, I'm Zer0Dev</h1>
 <div align="center">
@@ -27,9 +31,13 @@
     </td>
     <td width="50%" valign="top">
       <div align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=Zer0Dev-exe&show_icons=true&theme=dracula&hide_border=true" alt="GitHub Stats" />
+        <a href="https://github.com/anuraghazra/github-readme-stats">
+          <img width="100%" src="https://github-readme-stats.vercel.app/api?username=Zer0Dev-exe&show_icons=true&theme=dracula" alt="GitHub Stats" />
+        </a>
         <br>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zer0Dev-exe&layout=compact&theme=dracula&hide_border=true" alt="Top Langs" />
+        <a href="https://github.com/anuraghazra/github-readme-stats">
+          <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zer0Dev-exe&layout=compact&theme=dracula" alt="Top Langs" />
+        </a>
       </div>
     </td>
   </tr>
