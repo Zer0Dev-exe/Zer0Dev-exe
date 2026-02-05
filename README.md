@@ -3,6 +3,7 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm Zer0Dev</h1>
+
 <div align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=BD93F9&background=00000000&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;AI+%26+Cybersecurity+Enthusiast;Python+Wizard;Bot+Developer" alt="Typing SVG" />
 </div>
@@ -10,7 +11,7 @@
 
 <table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
 <tr>
-<td width="55%" valign="top">
+<td width="50%" valign="top">
 <h3>👨‍💻 About Me</h3>
 <ul>
 <li>🔭 Desarrollador <b>Full Stack</b> (Java, JS, PHP, Python).</li>
@@ -26,10 +27,10 @@
 <a href="https://www.youtube.com/c/zer0" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="25"></a>
 </div>
 </td>
-<td width="45%" valign="top" align="center">
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Zer0Dev-exe&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" width="100%" /></a>
-<br>
-<img src="https://github-profile-trophy.vercel.app/?username=Zer0Dev-exe&theme=dracula&no-frame=true&column=4&margin-w=15&margin-h=15" alt="Trophies" width="100%" />
+<td width="50%" valign="center" align="center">
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Zer0Dev-exe&bg_color=0d1117&color=bd93f9&line=bd93f9&point=ffffff&area=true&hide_border=true" width="100%" alt="Activity Graph" />
+</a>
 </td>
 </tr>
 </table>
@@ -53,6 +54,7 @@
 <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </div>
+
 <br>
 <div align="center">
 <a href="https://discord.com/users/817515739711406140">
