@@ -53,7 +53,7 @@
     <td><img src="https://img.shields.io/badge/-80%25-777BB4?style=flat-square&logo=php&logoColor=white" height="20"></td>
   </tr>
    <tr>
-    <td>🛢️ <b>Oracle/SQL</b></td>
+    <td><b>Oracle/SQL</b></td>
     <td><img src="https://img.shields.io/badge/-75%25-F80000?style=flat-square&logo=oracle&logoColor=white" height="20"></td>
   </tr>
 </table>
