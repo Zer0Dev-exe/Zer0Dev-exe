@@ -1,4 +1,4 @@
-[![MasterHead](https://i.pinimg.com/736x/3d/c6/fa/3dc6fa2a9ba1e71dd596c9f62d402bd3.jpg)](https://zer0dev.es)
+[![MasterHead](https://images.unsplash.com/photo-1555066931-4365d14bab8c?q=80&w=1000&auto=format&fit=crop)](https://zer0dev.es)
 
 <h1 align="center">Hi 👋, I'm Zer0Dev</h1>
 <div align="center">
@@ -7,7 +7,7 @@
 
 <table align="center" border="0" cellpadding="0" cellspacing="0">
   <tr>
-    <td width="55%" valign="top">
+    <td width="50%" valign="top">
       <h3>👨‍💻 About Me</h3>
       <br>
       <ul>
@@ -25,11 +25,11 @@
         <a href="https://www.youtube.com/c/zer0" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
       </div>
     </td>
-    <td width="45%" valign="center">
+    <td width="50%" valign="top">
       <div align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=Zer0Dev-exe&show_icons=true&theme=dracula&hide_border=true&bg_color=00000000" />
+        <img src="https://github-readme-stats.vercel.app/api?username=Zer0Dev-exe&show_icons=true&theme=dracula&hide_border=true" alt="GitHub Stats" />
         <br>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zer0Dev-exe&layout=compact&theme=dracula&hide_border=true&bg_color=00000000" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zer0Dev-exe&layout=compact&theme=dracula&hide_border=true" alt="Top Langs" />
       </div>
     </td>
   </tr>
