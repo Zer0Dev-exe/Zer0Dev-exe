@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://images.unsplash.com/photo-1555066931-4365d14bab8c?q=80&w=1200&h=200&fit=crop" alt="MasterHead" width="100%" height="160" style="object-fit: cover;">
+<img src="https://images.unsplash.com/photo-1555066931-4365d14bab8c?q=80&w=1200&h=200&fit=crop" alt="Banner" width="100%" height="160" style="object-fit: cover;">
 </div>
 
 <h1 align="center">Hi 👋, I'm Zer0Dev</h1>
@@ -26,18 +26,15 @@
 <a href="https://www.youtube.com/c/zer0" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="25"></a>
 </div>
 </td>
-<td width="45%" valign="top">
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Zer0Dev-exe&theme=dracula&hide_border=true" width="100%" alt="GitHub Streak" />
-<br><br>
-<img src="https://github-profile-trophy.vercel.app/?username=Zer0Dev-exe&theme=dracula&no-frame=true&column=4&margin-w=15&margin-h=15" width="100%" alt="Trophies" />
-</div>
+<td width="45%" valign="top" align="center">
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Zer0Dev-exe&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" width="100%" /></a>
+<br>
+<img src="https://github-profile-trophy.vercel.app/?username=Zer0Dev-exe&theme=dracula&no-frame=true&column=4&margin-w=15&margin-h=15" alt="Trophies" width="100%" />
 </td>
 </tr>
 </table>
 
 <br>
-
 <h3 align="center">🛠️ Tech Stack</h3>
 <div align="center">
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
@@ -56,9 +53,7 @@
 <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </div>
-
 <br>
-
 <div align="center">
 <a href="https://discord.com/users/817515739711406140">
 <img src="https://lanyard.cnrad.dev/api/817515739711406140?theme=dark&bg=00000000&hide_discrim=true" />
