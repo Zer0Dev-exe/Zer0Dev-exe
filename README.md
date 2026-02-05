@@ -1,4 +1,4 @@
-[![MasterHead]([https://i.pinimg.com/736x/3d/c6/fa/3dc6fa2a9ba1e71dd596c9f62d402bd3.jpg])](https://zer0dev.es)
+[![MasterHead](https://i.pinimg.com/736x/3d/c6/fa/3dc6fa2a9ba1e71dd596c9f62d402bd3.jpg)](https://zer0dev.es)
 
 <h1 align="center">Hi 👋, I'm Zer0Dev</h1>
 <div align="center">
