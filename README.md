@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://images.unsplash.com/photo-1555066931-4365d14bab8c?q=80&w=1200&h=200&fit=crop" alt="Banner" width="100%" height="160" style="object-fit: cover; border-radius: 8px;">
+  <img src="./banner.jpg" alt="Banner" width="100%">
   
   <h1 align="center">Hi 👋, I'm Zer0Dev</h1>
 
