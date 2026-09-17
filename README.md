@@ -57,7 +57,6 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
 </p>
----
 
 <div align="center">
   <a href="https://discord.com/users/817515739711406140">
