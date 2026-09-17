@@ -11,9 +11,7 @@
     <a href="https://twitter.com/zer0_9999" target="_blank"><img src="https://img.shields.io/badge/X-zer0__9999-black?style=flat-square&logo=x&logoColor=white" height="22"></a>
   </p>
 </div>
-
 ---
-
 ### 👨‍💻 Sobre mí
 
 - 🎓 Especializándome en **Inteligencia Artificial y Big Data**.
@@ -22,21 +20,23 @@
 - 🗄️ Modelado y gestión eficiente de bases de datos relacionales y NoSQL.
 - 🐧 Entornos Linux, contenerización con Docker y buenas prácticas de despliegue.
 
----
-
 ### 🛠️ Tech Stack & Herramientas
 
-#### 🧠 IA, Data & Backend
+#### 🧠 Big Data, Pipelines & Backend
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache_NiFi-7298AC?style=flat-square&logo=apachenifi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
 </p>
 
 #### 🎨 Frontend
 <p>
+  <img src="https://img.shields.io/badge/Astro-BC52EE?style=flat-square&logo=astro&logoColor=white" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
@@ -57,7 +57,6 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
 </p>
-
 ---
 
 <div align="center">
