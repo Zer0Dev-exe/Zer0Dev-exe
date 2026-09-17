@@ -11,6 +11,7 @@
     <a href="https://twitter.com/zer0_9999" target="_blank"><img src="https://img.shields.io/badge/X-zer0__9999-black?style=flat-square&logo=x&logoColor=white" height="22"></a>
   </p>
 </div>
+
 ### 👨‍💻 Sobre mí
 
 - 🎓 Especializándome en **Inteligencia Artificial y Big Data**.
