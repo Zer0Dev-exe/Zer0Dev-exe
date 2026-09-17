@@ -1,7 +1,5 @@
 <div align="center">
-  <img src="./banner.jpg" alt="Banner" width="500">
-  
-  <h1 align="center">Hi 👋, I'm Zer0Dev</h1>
+  <img src="./banner.jpg" alt="Banner" width="700">
 
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=BD93F9&background=00000000&center=true&vCenter=true&width=500&lines=Software+Developer;Especializ%C3%A1ndome+en+IA+%26+Big+Data;Python+%26+Backend+Architecture;Data-Driven+Solutions" alt="Typing SVG" />
 
