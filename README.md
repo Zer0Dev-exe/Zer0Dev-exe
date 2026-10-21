@@ -82,6 +82,7 @@ class Zer0Dev:
 <!-- REPOS:START -->
 | Proyecto | Descripción | Lenguaje | Creado |
 |---|---|---|---|
+| [Kanto3D](https://github.com/Zer0Dev-exe/Kanto3D) |  | Rust | 20/10/2026 |
 | [MugiManager](https://github.com/Zer0Dev-exe/MugiManager) | Planificador de viajes en tren, metro y autobús por Gipuzkoa y Bizkaia. Web, PWA y app Android. Proyecto independiente, no oficial. | Python | 16/10/2026 |
 | [Zer0Dev.es](https://github.com/Zer0Dev-exe/Zer0Dev.es) | The code of my personal website | Astro | 15/10/2026 |
 | [dualhook](https://github.com/Zer0Dev-exe/dualhook) | Editor de webhooks de Discord con V1 (embeds) y V2 (Components V2) bien separados, vista previa y backups | TypeScript | 13/10/2026 |
