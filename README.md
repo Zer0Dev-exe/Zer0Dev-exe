@@ -95,7 +95,7 @@ class Zer0Dev:
 | [EnvVault](https://github.com/Zer0Dev-exe/EnvVault) | Almacenador, Importador y Exportador de .env-s | Python | 25/09/2026 |
 | [GitKeeper](https://github.com/Zer0Dev-exe/GitKeeper) | Proyecto para manejar tus repositorios de Git más rápidamente y más eficaz | Python | 25/09/2026 |
 | [GitMaster](https://github.com/Zer0Dev-exe/GitMaster) | Un CLI / aplicación para controlar mejor tus servicios/procesos y con sincronización a PM2 | TypeScript | 22/09/2026 |
-| [ClaudeZer0](https://github.com/Zer0Dev-exe/ClaudeZer0) | Un cliente para usar el agente de Claude en tu servidor SSH desde un movil o donde quieras, basado en mis necesidades fuera de casa | JavaScript | 22/09/2026 |
+| [Zer0Code](https://github.com/Zer0Dev-exe/Zer0Code) | Orquestador de agentes de IA con Claude Code, Codex y Gemini CLI. Desarrolla y revisa código desde escritorio, web y móvil, en tu propio equipo o servidor. | JavaScript | 22/09/2026 |
 | [J.A.R.V.I.S](https://github.com/Zer0Dev-exe/J.A.R.V.I.S) | Próximo bot de seguridad, posible funcionalidad independiente de agente | TypeScript | 21/09/2026 |
 | [Red-BotDiscord](https://github.com/Zer0Dev-exe/Red-BotDiscord) | Copia del RedBot pero versión mucho más rápida de instalar sin tantos idiomas | Python | 21/09/2026 |
 | [VortexClone](https://github.com/Zer0Dev-exe/VortexClone) | Versión restructurada de Vortex con Dash y MongoDB | TypeScript | 18/09/2026 |
