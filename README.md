@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/banner.svg" alt="Zer0Dev — developer banner" width="100%" />
+<img src="./assets/a_wide_cinematic_futuristic_dark_tech_space_them.png" alt="Zer0Dev — cinematic purple Z0 banner" width="100%" />
 
 <h2>Software Developer · Data Analyst</h2>
 <p>Building tools, automation and data-driven software.</p>
