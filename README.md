@@ -2,8 +2,7 @@
 
 <img src="./assets/banner.svg" alt="Zer0Dev — developer banner" width="100%" />
 
-<p><strong><font size="5">Software Developer</font></strong></p>
-<p><strong>Data Analyst · Backend Engineering</strong></p>
+<h2>Software Developer · Data Analyst</h2>
 <p>Building tools, automation and data-driven software.</p>
 <sub>Based in the Basque Country, Spain.</sub>
 
@@ -14,17 +13,7 @@
 <a href="https://twitter.com/zer0_9999"><img src="https://img.shields.io/badge/X-161b22?style=for-the-badge&logo=x&logoColor=9b72ff" alt="X"></a>
 </p>
 
-<b>Languages</b>
-
-<img src="https://img.shields.io/badge/Python-161b22?style=flat-square&logo=python&logoColor=white" alt="Python"> <img src="https://img.shields.io/badge/TypeScript-161b22?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"> <img src="https://img.shields.io/badge/JavaScript-161b22?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript">
-
-<b>Frameworks</b>
-
-<img src="https://img.shields.io/badge/Node.js-161b22?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"> <img src="https://img.shields.io/badge/React-161b22?style=flat-square&logo=react&logoColor=white" alt="React"> <img src="https://img.shields.io/badge/FastAPI-161b22?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI">
-
-<b>Data & Infrastructure</b>
-
-<img src="https://img.shields.io/badge/MongoDB-161b22?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"> <img src="https://img.shields.io/badge/PostgreSQL-161b22?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"> <img src="https://img.shields.io/badge/Docker-161b22?style=flat-square&logo=docker&logoColor=white" alt="Docker"> <img src="https://img.shields.io/badge/Linux-161b22?style=flat-square&logo=linux&logoColor=white" alt="Linux">
+<img src="https://img.shields.io/badge/Python-161b22?style=flat-square&logo=python&logoColor=white" alt="Python"> <img src="https://img.shields.io/badge/TypeScript-161b22?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"> <img src="https://img.shields.io/badge/JavaScript-161b22?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript"> <img src="https://img.shields.io/badge/Node.js-161b22?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"> <img src="https://img.shields.io/badge/React-161b22?style=flat-square&logo=react&logoColor=white" alt="React"> <img src="https://img.shields.io/badge/FastAPI-161b22?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"> <img src="https://img.shields.io/badge/MongoDB-161b22?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"> <img src="https://img.shields.io/badge/PostgreSQL-161b22?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"> <img src="https://img.shields.io/badge/Docker-161b22?style=flat-square&logo=docker&logoColor=white" alt="Docker"> <img src="https://img.shields.io/badge/Linux-161b22?style=flat-square&logo=linux&logoColor=white" alt="Linux">
 
 </div>
 
