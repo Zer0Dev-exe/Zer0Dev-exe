@@ -1,11 +1,10 @@
 <div align="center">
 
-<img src="./assets/banner.svg" alt="Z0 — Zer0Dev" width="100%" />
+<img src="./assets/banner.svg" alt="Zer0Dev — developer banner" width="100%" />
 
-<h2>Software Developer · Data Analyst</h2>
-
-Building useful software, developer tools and data-driven solutions.
-
+<p><strong><font size="5">Software Developer</font></strong></p>
+<p><strong>Data Analyst · Backend Engineering</strong></p>
+<p>Building tools, automation and data-driven software.</p>
 <sub>Based in the Basque Country, Spain.</sub>
 
 <p>
@@ -15,21 +14,29 @@ Building useful software, developer tools and data-driven solutions.
 <a href="https://twitter.com/zer0_9999"><img src="https://img.shields.io/badge/X-161b22?style=for-the-badge&logo=x&logoColor=9b72ff" alt="X"></a>
 </p>
 
-<img src="https://img.shields.io/badge/Python-161b22?style=flat-square&logo=python&logoColor=white" alt="Python"> <img src="https://img.shields.io/badge/TypeScript-161b22?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"> <img src="https://img.shields.io/badge/JavaScript-161b22?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript"> <img src="https://img.shields.io/badge/Node.js-161b22?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"> <img src="https://img.shields.io/badge/React-161b22?style=flat-square&logo=react&logoColor=white" alt="React"> <img src="https://img.shields.io/badge/FastAPI-161b22?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"> <img src="https://img.shields.io/badge/MongoDB-161b22?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"> <img src="https://img.shields.io/badge/PostgreSQL-161b22?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"> <img src="https://img.shields.io/badge/Docker-161b22?style=flat-square&logo=docker&logoColor=white" alt="Docker"> <img src="https://img.shields.io/badge/Linux-161b22?style=flat-square&logo=linux&logoColor=white" alt="Linux">
+<b>Languages</b>
+
+<img src="https://img.shields.io/badge/Python-161b22?style=flat-square&logo=python&logoColor=white" alt="Python"> <img src="https://img.shields.io/badge/TypeScript-161b22?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"> <img src="https://img.shields.io/badge/JavaScript-161b22?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript">
+
+<b>Frameworks</b>
+
+<img src="https://img.shields.io/badge/Node.js-161b22?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"> <img src="https://img.shields.io/badge/React-161b22?style=flat-square&logo=react&logoColor=white" alt="React"> <img src="https://img.shields.io/badge/FastAPI-161b22?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI">
+
+<b>Data & Infrastructure</b>
+
+<img src="https://img.shields.io/badge/MongoDB-161b22?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"> <img src="https://img.shields.io/badge/PostgreSQL-161b22?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"> <img src="https://img.shields.io/badge/Docker-161b22?style=flat-square&logo=docker&logoColor=white" alt="Docker"> <img src="https://img.shields.io/badge/Linux-161b22?style=flat-square&logo=linux&logoColor=white" alt="Linux">
 
 </div>
 
----
-
 ### About me
 
-I build practical software across **backend development, automation, AI and data engineering**. I enjoy turning ideas into products and learning new technologies along the way.
+I build backend systems, developer tools and automation workflows, with an interest in data analysis and reliable software engineering.
 
 ### Featured projects
 
 | Project | Description |
 | :-- | :-- |
-| [**KISSAKI**](https://github.com/Zer0Dev-exe/KISSAKI) | Explore the KISSAKI project on GitHub. |
+| [**KISSAKI**](https://github.com/Zer0Dev-exe/KISSAKI) | Rust-based web discovery tool for authorized HTTP(S) reconnaissance, with strict scope controls and machine-readable results. |
 | [**MugiManager**](https://github.com/Zer0Dev-exe/MugiManager) | Public transport journey planner for Gipuzkoa and Bizkaia. |
 | [**Zer0Code**](https://github.com/Zer0Dev-exe/Zer0Code) | AI coding-agent orchestration for desktop, web and mobile. |
 | [**Mangosta**](https://github.com/Zer0Dev-exe/Mangosta) | CLI for MongoDB Cloud management. |
