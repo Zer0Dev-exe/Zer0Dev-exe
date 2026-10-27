@@ -29,11 +29,10 @@ I build practical software across **backend development, automation, AI and data
 
 | Project | Description |
 | :-- | :-- |
+| [**KISSAKI**](https://github.com/Zer0Dev-exe/KISSAKI) | Explore the KISSAKI project on GitHub. |
 | [**MugiManager**](https://github.com/Zer0Dev-exe/MugiManager) | Public transport journey planner for Gipuzkoa and Bizkaia. |
 | [**Zer0Code**](https://github.com/Zer0Dev-exe/Zer0Code) | AI coding-agent orchestration for desktop, web and mobile. |
-| [**AnomaNet**](https://github.com/Zer0Dev-exe/AnomaNet) | ML-powered network anomaly detection with Wazuh alerts. |
 | [**Mangosta**](https://github.com/Zer0Dev-exe/Mangosta) | CLI for MongoDB Cloud management. |
-| [**dualhook**](https://github.com/Zer0Dev-exe/dualhook) | Discord webhook editor supporting Components V2. |
 | [**Zer0Dev.es**](https://github.com/Zer0Dev-exe/Zer0Dev.es) | Source code for my personal website. |
 
 <details>
