@@ -2,10 +2,7 @@
 
 <img src="./assets/banner.svg" alt="Z0 — Zer0Dev" width="100%" />
 
-<img src="./assets/z0.svg" alt="Z0 icon" width="90" />
-
-# Zer0Dev
-**Software Developer · AI & Big Data**
+<h2>Software Developer · Data Analyst</h2>
 
 Building useful software, developer tools and data-driven solutions.
 
