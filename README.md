@@ -1,16 +1,24 @@
 <div align="center">
 
-<img src="./assets/z0.svg" width="150" alt="Z0 — Zer0Dev logo" />
+<img src="./assets/banner.svg" alt="Z0 — Zer0Dev" width="100%" />
+
+<img src="./assets/z0.svg" alt="Z0 icon" width="90" />
 
 # Zer0Dev
-
 **Software Developer · AI & Big Data**
 
 Building useful software, developer tools and data-driven solutions.
 
-Based in the Basque Country, Spain.
+<sub>Based in the Basque Country, Spain.</sub>
 
-[Website](https://zer0dev.es) · [Discord](https://discord.com/users/817515739711406140) · [Email](mailto:zeropersonalmail@gmail.com) · [X](https://twitter.com/zer0_9999)
+<p>
+<a href="https://zer0dev.es"><img src="https://img.shields.io/badge/Website-161b22?style=for-the-badge&logo=googlechrome&logoColor=9b72ff" alt="Website"></a>
+<a href="https://discord.com/users/817515739711406140"><img src="https://img.shields.io/badge/Discord-161b22?style=for-the-badge&logo=discord&logoColor=9b72ff" alt="Discord"></a>
+<a href="mailto:zeropersonalmail@gmail.com"><img src="https://img.shields.io/badge/Email-161b22?style=for-the-badge&logo=gmail&logoColor=9b72ff" alt="Email"></a>
+<a href="https://twitter.com/zer0_9999"><img src="https://img.shields.io/badge/X-161b22?style=for-the-badge&logo=x&logoColor=9b72ff" alt="X"></a>
+</p>
+
+<img src="https://img.shields.io/badge/Python-161b22?style=flat-square&logo=python&logoColor=white" alt="Python"> <img src="https://img.shields.io/badge/TypeScript-161b22?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"> <img src="https://img.shields.io/badge/JavaScript-161b22?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript"> <img src="https://img.shields.io/badge/Node.js-161b22?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"> <img src="https://img.shields.io/badge/React-161b22?style=flat-square&logo=react&logoColor=white" alt="React"> <img src="https://img.shields.io/badge/FastAPI-161b22?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"> <img src="https://img.shields.io/badge/MongoDB-161b22?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"> <img src="https://img.shields.io/badge/PostgreSQL-161b22?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"> <img src="https://img.shields.io/badge/Docker-161b22?style=flat-square&logo=docker&logoColor=white" alt="Docker"> <img src="https://img.shields.io/badge/Linux-161b22?style=flat-square&logo=linux&logoColor=white" alt="Linux">
 
 </div>
 
@@ -18,27 +26,21 @@ Based in the Basque Country, Spain.
 
 ### About me
 
-I build practical projects across **backend development, automation, AI and data engineering**. I like experimenting with new technologies and turning ideas into working software.
-
-**Tools I work with**
-
-`Python` · `TypeScript` · `JavaScript` · `FastAPI` · `Node.js` · `React` · `Astro` · `MongoDB` · `PostgreSQL` · `Docker` · `Linux`
+I build practical software across **backend development, automation, AI and data engineering**. I enjoy turning ideas into products and learning new technologies along the way.
 
 ### Featured projects
 
 | Project | Description |
 | :-- | :-- |
-| [**MugiManager**](https://github.com/Zer0Dev-exe/MugiManager) | Independent public transport planner for Gipuzkoa and Bizkaia. |
-| [**Zer0Code**](https://github.com/Zer0Dev-exe/Zer0Code) | AI coding agent orchestration for desktop, web and mobile. |
-| [**AnomaNet**](https://github.com/Zer0Dev-exe/AnomaNet) | Machine-learning network anomaly detection with Wazuh alerts. |
-| [**Mangosta**](https://github.com/Zer0Dev-exe/Mangosta) | CLI for managing MongoDB Cloud. |
-| [**dualhook**](https://github.com/Zer0Dev-exe/dualhook) | Discord webhook editor with previews and Components V2. |
-| [**Zer0Dev.es**](https://github.com/Zer0Dev-exe/Zer0Dev.es) | Source code of my personal website. |
-
-### All repositories
+| [**MugiManager**](https://github.com/Zer0Dev-exe/MugiManager) | Public transport journey planner for Gipuzkoa and Bizkaia. |
+| [**Zer0Code**](https://github.com/Zer0Dev-exe/Zer0Code) | AI coding-agent orchestration for desktop, web and mobile. |
+| [**AnomaNet**](https://github.com/Zer0Dev-exe/AnomaNet) | ML-powered network anomaly detection with Wazuh alerts. |
+| [**Mangosta**](https://github.com/Zer0Dev-exe/Mangosta) | CLI for MongoDB Cloud management. |
+| [**dualhook**](https://github.com/Zer0Dev-exe/dualhook) | Discord webhook editor supporting Components V2. |
+| [**Zer0Dev.es**](https://github.com/Zer0Dev-exe/Zer0Dev.es) | Source code for my personal website. |
 
 <details>
-<summary>Browse my projects</summary>
+<summary><b>All repositories</b></summary>
 
 <!-- REPOS:START -->
 | Proyecto | Descripción | Lenguaje | Creado |
@@ -66,6 +68,4 @@ I build practical projects across **backend development, automation, AI and data
 
 </details>
 
-<div align="center">
-<sub>Always learning, always building · <a href="https://zer0dev.es">zer0dev.es</a></sub>
-</div>
+<div align="center"><sub>Always learning, always building · <a href="https://zer0dev.es">zer0dev.es</a></sub></div>
